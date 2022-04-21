@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jamesonsaunders.convertwebsitetoapp',
-  appName: 'Website to App',
+  appId: 'idea-academy-library/view/sites.google.com',
+  appName: 'Idea Academy',
   webDir: 'www',
   bundledWebRuntime: false,
 };
